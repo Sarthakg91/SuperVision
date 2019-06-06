@@ -1,6 +1,6 @@
 /*
 * This class serves to connect the ART tracker and process data in a Qt GUI.
-* (c) Eric Lecolinet - Telecom ParisTech 2014.
+* (c) 
 * Derived from "example_with_simple_remote_control" from A.R.T. GmbH.
 *
 * DTrackSDK: C++ example, A.R.T. GmbH 16.12.05-17.6.13
