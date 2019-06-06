@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>colorWheel.jpg</file>
+        <file>colorWheel2.jpg</file>
+    </qresource>
+</RCC>

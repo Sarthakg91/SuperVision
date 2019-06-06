@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>abc.jpeg</file>
+        <file>cbc.jpg</file>
+        <file>cineFx.jpg</file>
+        <file>cnrs.jpg</file>
+        <file>discoveryScience.png</file>
+        <file>disneyChannel.png</file>
+        <file>euroTunnel.jpg</file>
+        <file>france2.jpg</file>
+        <file>franceInfo.jpg</file>
+        <file>historyChannel.png</file>
+        <file>m6.png</file>
+        <file>mtv.gif</file>
+        <file>nt1.jpg</file>
+        <file>ntv.JPG</file>
+        <file>orange.jpg</file>
+        <file>style.jpg</file>
+        <file>teva.png</file>
+        <file>tf1.png</file>
+        <file>tivi5.jpg</file>
+        <file>NRJ.jpeg</file>
+        <file>tnt.jpg</file>
+        <file>w9.jpg</file>
+    </qresource>
+</RCC>
